@@ -42,8 +42,8 @@ python main.py [data format] [xml file]
 
 ## Tests
 ```
-python test_main
-python test_dataformat
+python test_main.py
+python test_dataformat.py
 ```
 
 ## Format data
