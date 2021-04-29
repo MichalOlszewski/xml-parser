@@ -17,7 +17,7 @@
 
 
 ## General
-This is a small application that we cun run via console. We must type data format and 
+This is a small application that we can run via console. We must type data format and 
 the file from which we will take the information. 
 the program returns the necessary information about parcel.
 
